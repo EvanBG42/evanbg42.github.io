@@ -1,6 +1,7 @@
 ---
 author: Evan BG
 title: Games I Beat - 2022
+excerpt: Brief reviews of games I beat this year.
 ---
 <style>img {max-height: 215px}</style>
 
