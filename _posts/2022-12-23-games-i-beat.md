@@ -15,14 +15,16 @@ Now, in the order I beat them:
 # Deus Ex (2000) [PC]
 ![Deus Ex key art]({% link /assets/images/2022/deus_ex.png %})
 
-In some ways, Deus Ex is a game that feels like it hasn't aged a day. In others, it feels like it's still wobbly-kneed like a newborn fawn still trying to get its footing. The world design and the writing hold up remarkably well, and the very _X-Files_ aesthetic of everything is very charming. In gameplay, however, it feels deeply clunky. It tries to allow the player with an incredible amount of freedom -- it's a shooter, it's a stealth game, you can talk your way out of almost anything! But it never quite succeeds at any of those. 
+In some ways, Deus Ex is a game that feels like it hasn't aged a day. In others, it feels like it's wobbly-kneed like a newborn fawn still trying to get its footing. The world design and the writing hold up remarkably well, and the very _X-Files_ aesthetic of everything is charming. In gameplay, however, it feels deeply clunky. It tries to allow the player with an incredible amount of freedom -- it's a shooter, it's a stealth game, you can talk your way out of almost anything! But it never quite succeeds at any of those. 
 
 I ended up playing a shooter-y style JC, but a lot of my time was spent cheesing enemies with grenades.
 
 # Sable (2021) [PC]
 ![Sable key art]({% link /assets/images/2022/sable.jpg %})
 
-Sable is a beautiful game in every sense. The music and sound design are beautiful. The visuals are stunning. The story is touching. The world is a delight. The gameplay is largely focused on the style of exploration anyone who's played _Breath of the Wild_ will be familiar with, complete with grab-anywhere climbing and a glider. I thoroughly enjoyed my time with this game, and it is a joy to lose yourself in and just go exploring.
+Sable is a beautiful game in every sense. The music and sound design are incredible. The visuals are stunning. The story is touching. The world is a delight. 
+
+The gameplay is largely focused on the style of exploration anyone who's played _Breath of the Wild_ will be familiar with, complete with grab-anywhere climbing and a glider. I thoroughly enjoyed my time with this game, and it is a joy to lose yourself in and just go exploring.
 
 I imagine I'll play this again once the memory has faded a bit more.
 
@@ -30,7 +32,9 @@ I imagine I'll play this again once the memory has faded a bit more.
 # Elden Ring (2022) [PC]
 ![Elden Ring key art]({% link /assets/images/2022/elden_ring.jpg %})
 
-So, Elden Ring is a lot. And it was also the very first souls-bourne-like I actually sat down and beat. This game came out at a great time for me because I had recently injured my ankle and was able to focus in on it shortly after it came out. I love world design that isn't afraid to let the player explore, and Elden Ring does that in spades. I'm certain that I missed a ton of stuff, maybe even as many as two bosses! But that's OK. I still enjoyed it a lot, especially the co-op parts I played with my friends. Due to its length and complexity, I'm not sure if I'll be playing more of this.
+So, Elden Ring is a lot. And it was also the very first souls-bourne-like I actually sat down and beat. This game came out at a great time for me because I had recently injured my ankle and was able to focus in on it shortly after it came out. 
+
+I love world design that isn't afraid to let the player explore, and Elden Ring does that in spades. I'm certain that I missed a ton of stuff, maybe even as many as two bosses! But that's OK. I still enjoyed it a lot, especially the co-op parts I played with my friends. Due to its length and complexity, I'm not sure if I'll be playing more of this.
 
 # FIFA 17 (2016) - The Journey [PS4]
 ![FIFA 17 key art]( {% link /assets/images/2022/fifa_17.png %})
