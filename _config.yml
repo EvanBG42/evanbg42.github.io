@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Evan's Space
-email: evanbg42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal site of EvanBG. This is where I write about stuff I like, mostly.
 domain: evanbg42.github.io
@@ -27,8 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://evanbg42.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  evanbg42
 
-# Build settings
+# Build settings - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+
+# theme gem: C:\Ruby31-x64\lib\ruby\gems\3.1.0\gems\minima-2.5.1
 theme: minima
+
 plugins:
   - jekyll-feed
 
