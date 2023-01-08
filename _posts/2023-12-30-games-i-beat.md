@@ -28,3 +28,14 @@ The biggest thing in Boneworks is that you have a body. Most VR games don't simu
 The story in Boneworks is a little obtuse, involving corporate politics, advanced "void" technology, and a literal digital eternal life. But I enjoy that the game is fine letting you piece it together. I even like the FMV elements! That's something I've enjoyed seeing recently (like in Control).
 
 All in all a very solid game for VR vets. I look forward to trying out Bonelab in all its moddable glory.
+
+# Bonelab (2022) [PC]
+![Bonelab]({% link /assets/images/2023/bonelab.png %}
+
+Bonelab is a weird creature. Part campaign, and part modding foundation. It's easy to see why people were disappointed when it first came out. Boneworks had a pretty lengthy campaign (~10 hrs), but Bonelab's campaign is a scant 4 - 5 hrs at most. I enjoyed Bonelab's campaign, especially with just how weird it got at times, but I was definitely left wanting more.
+
+Bonelab takes the "you have a physics body" to the next level with its avatars system. Each avatar has stats derived from its proportions, and the base game includes a wide variety to play with. My personal favorites are Heavy, who's strong enough to pick up and throw enemies around, and Fast, who is as speedy as she sounds. The names aren't very creative. 
+
+After Boneworks' initial release, it got several large updates with standalone arenas and gameplay additions. These sort of standalone activities are at the core of Bonelab, as opposed to being peripheral to the story. For a game with a major focus on modding, this makes a lot of sense. I've played and enjoyed several mods, including new avatars and areas. Avatars are especially fun, because you can bring in characters from all sorts of games that modders have kindly pulled the 3D models for. And original models too! My favorites are especially large or especially large characters. I've even played the 30+ ft tall Iron Giant, which is a ton of fun despite being real finnicky to control.
+
+I've tried a few mod weapons, but not been able to make them work. I think it might have something to do with my controls not having a button mapped to "activated thing on the held item". Maybe someday I'll get that Airpods shotgun working...
