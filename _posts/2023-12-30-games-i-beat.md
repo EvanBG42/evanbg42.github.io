@@ -39,3 +39,21 @@ Bonelab takes the "you have a physics body" to the next level with its avatars s
 After Boneworks' initial release, it got several large updates with standalone arenas and gameplay additions. These sort of standalone activities are at the core of Bonelab, as opposed to being peripheral to the story. For a game with a major focus on modding, this makes a lot of sense. I've played and enjoyed several mods, including new avatars and areas. Avatars are especially fun, because you can bring in characters from all sorts of games that modders have kindly pulled the 3D models for. And original models too! My favorites are especially large or especially large characters. I've even played the 30+ ft tall Iron Giant, which is a ton of fun despite being real finnicky to control.
 
 I've tried a few mod weapons, but not been able to make them work. I think it might have something to do with my controls not having a button mapped to "activated thing on the held item". Maybe someday I'll get that Airpods shotgun working...
+
+# Alien: Isolation (2014) [PC]
+![Alien: Isolation]({% link /assets/images/2023/alien_isolation.png %}
+
+TODO TODO
+    - I played on hard accidentally lol
+    - The design and look of the space station is incredible. Beautiful chunky 80s tech vibes throughout.
+    - Sound design iconic. The healing station beckoning me through walls. The crafting sound! Good companions to the Alien's iconic sound.
+    - I appreciate that the Alien is unkillable -- that . But goodness it felt like any time I did anything wrong it was instant death game over. It makes sense but I don't think it's all that fun
+
+# Wonder Boy: The Dragon's Trap
+![Wonder Boy: The Dragon's Trap]({% link /assets/images/2023/wonder_boy.png %}
+
+TODO TODO
+    - Audio video treat. Absolutely gorgeous all around. I'm gonna have to buy the OST.
+    - Quickly switching between old and new is incredible. The game doesn't skip a beat! I loved checking out the older style while mostly playing the new style.
+    - Design wise this game feels pretty modern. I love how the different tranformations have their own gameplay. The mouse character can go all over the place! The lion can hit above and below! The bird can FLY!
+    - Gallery is lovely. Delighteful art. And great behind the scenes music recording videos -- good to see working musicians like that.
