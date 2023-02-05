@@ -11,7 +11,7 @@ I feel it’s important to recognize and analyze these texture-rich elements for
 
 ## LANGUAGE
 
-I first became aware of this idea thanks to designer Zach Gage speaking about the inherent richness of language. He’s worked on many word game designs (most recently, the brilliant *[Knotwords]*(https://playknotwords.com/)), and it’s clear this is something he’s thought a lot about. You can hear more about this in a recent episode of the [Eggplant podcast talking about Knotwords here](https://eggplant.show/92-untangling-language-with-knotwords).
+I first became aware of this idea thanks to designer Zach Gage speaking about the inherent richness of language. He’s worked on many word game designs (most recently, the brilliant *[Knotwords](https://playknotwords.com/)*), and it’s clear this is something he’s thought a lot about. You can hear more about this in a recent episode of the [Eggplant podcast talking about Knotwords here](https://eggplant.show/92-untangling-language-with-knotwords).
 
 ![Knotwords GIF]({% link /assets/images/2023/knotwords_demo.gif %})
 
