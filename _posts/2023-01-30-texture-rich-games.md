@@ -9,7 +9,7 @@ One of my favorite parts about learning game design has been exploring component
 
 I feel it’s important to recognize and analyze these texture-rich elements for many reasons. Knowing them helps to understand the games that are made using those elements. Knowing the options those elements enable opens up more design possibilities and can even inspire new ideas. Plus, it’s fun to learn this stuff!
 
-## LANGUAGE
+## Language
 
 I first became aware of this idea thanks to designer Zach Gage speaking about the inherent richness of language. He’s worked on many word game designs (most recently, the brilliant *[Knotwords](https://playknotwords.com/)*), and it’s clear this is something he’s thought a lot about. You can hear more about this in a recent episode of the [Eggplant podcast talking about Knotwords here](https://eggplant.show/92-untangling-language-with-knotwords).
 
@@ -19,7 +19,7 @@ I’m going to focus on English due to familiarity, but many of these ideas appl
 
 I feel that word games are often a bit maligned and thought of as boring, but that doesn’t necessarily have to be the case. My favorite designs play with this inherent richness and baked-in meaning that languages have to create something wonderful.
 
-## PLAYING CARDS
+## Playing Cards
 
 When describing elements of games that are “texture-rich”, playing cards are likely one of the first options people think of. I’m specifically thinking of the French-suited 52 card deck (plus jokers), but in other cultures, other decks fulfill similar criteria (tarot decks, hanafuda, etc.).
 
@@ -34,7 +34,7 @@ In the French-suited deck, cards possess a huge number of options for any indivi
 Add in the cultural elements of individual cards (such as [Queens and Kings getting married](https://www.pagat.com/marriage/)), and the ubiquitous playing card deck is rife with options. 
 
 
-## NOW HEAR ME OUT... PHYSICS
+## Now Hear Me Out... Physics
 
 While those other options require some amount of cultural background, our experience with physics is a universal that all people can relate to. Despite being more tangible, saying this is a “texture-rich element” for use in game design feels a bit wrong. But I think it’s true!
 
