@@ -9,21 +9,21 @@ One of my favorite parts about learning game design has been exploring component
 
 I feel it’s important to recognize and analyze these texture-rich elements for many reasons. Knowing them helps to understand the games that are made using those elements. Knowing the options those elements enable opens up more design possibilities and can even inspire new ideas. Plus, it’s fun to learn this stuff!
 
-# LANGUAGE
+## LANGUAGE
 
-I first became aware of this idea thanks to designer Zach Gage speaking about the inherent richness of language. He’s worked on many word game designs (most recently, the brilliant *[Knotwords](https://playknotwords.com/)*), and it’s clear this is something he’s thought a lot about. You can hear more about this in a recent episode of the [Eggplant podcast talking about Knotwords here](https://eggplant.show/92-untangling-language-with-knotwords).
+I first became aware of this idea thanks to designer Zach Gage speaking about the inherent richness of language. He’s worked on many word game designs (most recently, the brilliant *[Knotwords]*(https://playknotwords.com/)), and it’s clear this is something he’s thought a lot about. You can hear more about this in a recent episode of the [Eggplant podcast talking about Knotwords here](https://eggplant.show/92-untangling-language-with-knotwords).
 
-![Knotwords GIF]({% link /assets/images/2023/knotwords_demo.gif %}
+![Knotwords GIF]({% link /assets/images/2023/knotwords_demo.gif %})
 
 I’m going to focus on English due to familiarity, but many of these ideas apply to other languages too. Languages are made of a ton of different components and permutations that all have a context and meaning outside of any single game. In English, letters have their own orderings (alphabetical, or by frequency), categories (vowels, consonants), and an endless amount of permutations (syllables, words, acronyms, etc.) that make the English language an incredible system to build a game around.
 
 I feel that word games are often a bit maligned and thought of as boring, but that doesn’t necessarily have to be the case. My favorite designs play with this inherent richness and baked-in meaning that languages have to create something wonderful.
 
-# PLAYING CARDS
+## PLAYING CARDS
 
 When describing elements of games that are “texture-rich”, playing cards are likely one of the first options people think of. I’m specifically thinking of the French-suited 52 card deck (plus jokers), but in other cultures, other decks fulfill similar criteria (tarot decks, hanafuda, etc.).
 
-![Playing Cards Collage]({% link /assets/images/2023/playing_cards_collage.jpg %}
+![Playing Cards Collage]({% link /assets/images/2023/playing_cards_collage.jpg %})
 
 In the French-suited deck, cards possess a huge number of options for any individual card:
 - Number / Rank
@@ -34,11 +34,11 @@ In the French-suited deck, cards possess a huge number of options for any indivi
 Add in the cultural elements of individual cards (such as [Queens and Kings getting married](https://www.pagat.com/marriage/)), and the ubiquitous playing card deck is rife with options. 
 
 
-# NOW HEAR ME OUT... PHYSICS
+## NOW HEAR ME OUT... PHYSICS
 
 While those other options require some amount of cultural background, our experience with physics is a universal that all people can relate to. Despite being more tangible, saying this is a “texture-rich element” for use in game design feels a bit wrong. But I think it’s true!
 
-![Physics Diagrams from iStock]({% link /assets/images/2023/physics_stock.jpg %}
+![Physics Diagrams from iStock]({% link /assets/images/2023/physics_stock.jpg %})
 
 We all have preconceived notions of physics, which include a wide variety of physical laws. Growing up, we develop an intuition for physics through interacting with the world around us. While cruising on a bike (due to momentum from the force of our pedaling), any number of folks have fallen off (due to gravity) and come away with a nasty scrape (friction), bruise or break (collision).
 
