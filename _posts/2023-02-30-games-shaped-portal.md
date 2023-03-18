@@ -5,7 +5,7 @@ summary: I think a lot about games. I think I have Portal to thank for that.
 ---
 <style>img {max-height: 215px}</style>
 
-![Portal Hero card]({% link /assets/images/2023/portal_hero.png %})
+![Portal Hero card]({% link /assets/images/2023/portal_hero.jpg %})
 
 This is the first in a series of articles about games I feel had a major impact on me. I think it’s important for folks to identify and examine the media that influences their tastes and sensibilities.
 
@@ -30,7 +30,8 @@ I would eventually borrow a family member’s more powerful machine to actually 
 I didn’t beat the game. Despite my engagement with the mechanics, and my passion for the story and its antagonist GLaDOS, I made it near the escape section and simply dropped it. It was pretty tough for a newbie like me. Besides, my earlier obsession and research meant that I already knew how the story ended.
  
 ![GLaDOS]({% link /assets/images/2023/Glados.png %})
-(yes this is the portal 2 design. I think it’s better anyhow)
+
+*(yes this is the portal 2 design. I think it’s better anyhow)*
 
 Nowadays, I can beat Portal in about an hour, and I can recite many of GLaDOS’ lines before she has the time to say them. A lot’s changed in my life since I first learned of this game, but it’s a staple that I keep coming back to, and its brevity makes it easy for repeat visits.
 
