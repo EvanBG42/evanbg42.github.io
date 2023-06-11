@@ -3,7 +3,7 @@ author: Evan BG
 title: 'Riichi Mahjong: A Digital Primer'
 summary: Riichi Mahjong is a super cool game that can be daunting to learn. This primer aims to help readers get started playing a digital version to get hands-on experience quickly.
 ---
-<style>img {max-height: 500px}</style>
+<style>img {max-height: 600px}</style>
 
 ![Mahjong tiles scattered]({% link /assets/images/2023/mahjong_stock.png %})
 
@@ -62,6 +62,7 @@ There are a few yaku that are especially common and useful to know when starting
 - **Riichi**: The name of the game! This is less a pattern of tiles, and more a way you play your hand. Your hand must be closed, and you must be only one tile away from winning. When in this position, you can call "riichi" and place an additional wager of 1000 points. From here out, you can't discard any of the tiles currently in your hand -- you're just drawing and discarding until either you draw what you need to win, or an opponent discards it.
 
 ![Basic Riichi Hands]({% link /assets/images/2023/riichi_basic_hands.png %})
+<img src="/assets/images/2023/riichi_basic_hands.png" height=700px>
 
 *src: Unknown! If you know where this is from, please let me know.*
 
