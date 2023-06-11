@@ -71,8 +71,8 @@ To build these hands, players take turns around the table drawing a tile from th
 
 This isn't the only way to get new tiles -- you can also get them from your opponents discards, but typically only if you use them to complete a set or run!
 
-- **Completing Sets**: If ANY player has discarded a tile you need to complete a run, you can call "chi!" to take that tile and place the run face-up in front of you.
-- **Completing Runs**: If the opponent IMMEDIATELY BEFORE YOU discards a tile that would complete a set, you can call "pon!" and place the set face-up in front of you.
+- **Completing Sets**: If ANY player has discarded a tile you need to complete a run, you can call "pon!" to take that tile and place the run face-up in front of you.
+- **Completing Runs**: If the opponent IMMEDIATELY BEFORE YOU discards a tile that would complete a set, you can call "chi!" and place the set face-up in front of you.
 
 Note that you will still need to discard a tile to end your turn after taking someone’s discard. Placing your tiles face-up in front like this opens your hand (since your opponents can see part of your hand). Some yaku either can't be made with an open hand, or their value is lowered. When in doubt, keeping your hand closed is the safest call. But like many things, the best move depends on what's going on in your game!
 
