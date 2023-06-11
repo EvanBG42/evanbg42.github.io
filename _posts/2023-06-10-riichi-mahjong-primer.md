@@ -61,7 +61,7 @@ There are a few yaku that are especially common and useful to know when starting
 - **Three Triplets**: Three sets of triplets. Must be closed.
 - **Riichi**: The name of the game! This is less a pattern of tiles, and more a way you play your hand. Your hand must be closed, and you must be only one tile away from winning. When in this position, you can call "riichi" and place an additional wager of 1000 points. From here out, you can't discard any of the tiles currently in your hand -- you're just drawing and discarding until either you draw what you need to win, or an opponent discards it.
 
-<img src="/assets/images/2023/riichi_basic_hands.png" max-height="750px" title="Basic Riichi Hands">
+<img src="/assets/images/2023/riichi_basic_hands.png" title="Basic Riichi Hands" style="max-height:750px">
 
 *src: Unknown! If you know where this is from, please let me know.*
 
