@@ -6,7 +6,8 @@ summary: Riichi Mahjong is a super cool game that can be daunting to learn. This
 <style>img {max-height: 215px}</style>
 
 ![Mahjong tiles scattered]({% link /assets/images/2023/mahjong_stock.png %})
-*src: https://www.istockphoto.com/photo/mahjong-game-gm475539562-65402417*
+
+*src: [iStockPhoto](https://www.istockphoto.com/photo/mahjong-game-gm475539562-65402417)*
 
 For westerners, mahjong brings up thoughts of tile-matching solitaire, or a game for retirees. There's a LOT more to mahjong, especially my absolute favorite version: riichi. This style of mahjong is popular in Japan, and although it can be a little tough to get into, I think it's an extraordinary game that's well worth the effort.
 
@@ -25,7 +26,8 @@ The rest of this article is an overview of only what is absolutely needed to pla
 ## The Tiles
 
 ![Mahjong tiles]({% link /assets/images/2023/mahjong_tiles.png %})
-*src: https://github.com/FluffyStuff/riichi-mahjong-tiles*
+
+*src: [FluffyStuff on GitHub](https://github.com/FluffyStuff/riichi-mahjong-tiles)*
 
 A riichi mahjong set consists of the following:
 
@@ -56,10 +58,11 @@ There are a few yaku that are especially common and useful to know when starting
 - **Honor Triplet**: A hand containing at least one triplet of a dragon, the player's wind (the wind corresponding to the seat you’re sitting in), or the prevailing wind. Prevailing wind means the wind that represents the round being played, and should be visible on-screen when playing digitally. Open or closed.
 - **All Simples**: A hand that only uses tiles between 2 and 8 of any suit(s). No dragon or wind tiles, and not using the numbers 1 or 9. Open or closed.
 - **Three Same-Number Runs**: Three runs that have the same numbers in each group (e.g. three runs of “123”). Open or closed, but worth more closed.
-- **Three Triplets**: Three sets of triplets. Must be closed.\
+- **Three Triplets**: Three sets of triplets. Must be closed.
 - **Riichi**: The name of the game! This is less a pattern of tiles, and more a way you play your hand. Your hand must be closed, and you must be only one tile away from winning. When in this position, you can call "riichi" and place an additional wager of 1000 points. From here out, you can't discard any of the tiles currently in your hand -- you're just drawing and discarding until either you draw what you need to win, or an opponent discards it.
 
 ![Basic Riichi Hands]({% link /assets/images/2023/riichi_basic_hands.png %})
+
 *src: Unknown! If you know where this is from, please let me know.*
 
 ## Gameplay
@@ -89,7 +92,7 @@ Players start with 25,000 points. Generally speaking, each yaku is worth a few "
 
 It’s a fair amount of math, but luckily there are handy tables that spell it out - no calculations required. Even better if you just don’t pay attention and just let the video game do it for you! It's worth noting that there are limits to score values. When you have a certain amount of han, the fu don't matter and you just get a flat score. The limits are given names like "mangan" or the super-rare highest possible score limit: "yakuman". A hand can even be worth a multiple of these!
 
-Further reading: https://riichi.wiki/Japanese_mahjong_scoring_rules
+Further reading: [Japanese Mahjong Scoring Rules - Japanese Mahjong Wiki](https://riichi.wiki/Japanese_mahjong_scoring_rules)
 
 ## Wrapping Up
 
@@ -100,13 +103,13 @@ The rounds continue until either a player reaches a negative point value, or you
 The above primer should be enough to get started playing a video game version of riichi. This should be enough to play and get a feeling for what riichi is all about. This guide doesn’t cover everything, though! There are many more yaku, including some fun gimmicky ones like "bamboo forest" (all bamboo tiles), "all honors", and "thirteen orphans" (1 and 9 of each suit, and one of each honor tile). Additionally, there are a few extra nuances to certain rules that you typically don't have to worry about with digital play.
 
 Not sure where to play? Here are some favorites:
-- http://cyberdog.ca/kemono-mahjong/: An excellent implementation of riichi with animal characters who have different personalities and play styles. Bonus points for a mobile implementation that plays with the screen vertical!
-- https://www.nintendo.com/store/products/clubhouse-games-51-worldwide-classics-switch/: The new Clubhouse Games has riichi as a part of it. I haven't played this, but it looks super polished.
-- https://mahjongsoul.yo-star.com/: This is probably the easiest to set up and play online with friends. Minus points for having some super anime-tropey art in some not great ways. And it's a gacha game. Luckily you don't *have* to engage with that stuff to play with friends.
+- [Kemono Mahjong](http://cyberdog.ca/kemono-mahjong/): An excellent implementation of riichi with animal characters who have different personalities and play styles. Bonus points for a mobile implementation that plays with the screen vertical!
+- [Clubhouse Games on Nintendo Switch](https://www.nintendo.com/store/products/clubhouse-games-51-worldwide-classics-switch/): The new Clubhouse Games has riichi as a part of it. I haven't played this, but it looks super polished.
+- [Mahjong Soul](https://mahjongsoul.yo-star.com/): This is probably the easiest to set up and play online with friends. Minus points for having some super anime-tropey art in some not great ways. And it's a gacha game. Luckily you don't *have* to engage with that stuff to play with friends.
 
 Once you've played some riichi, here are some great resources for learning more:
-- https://riichi.wiki/Main_Page: This is a community wiki for riichi. It includes yaku info, strategy tips, and info about various digital versions of the game.
-- https://www.worldriichi.org/player-materials: The World Riichi Championship has a great cheatsheet for all the yaku.
-- https://dainachiba.github.io/RiichiBooks/: This is an excellent book for players looking to get better at riichi.
+- [Japanese Mahjong Wiki](https://riichi.wiki/Main_Page): This is a community wiki for riichi. It includes yaku info, strategy tips, and info about various digital versions of the game.
+- [Downloads - World Riichi Championship](https://www.worldriichi.org/player-materials): The World Riichi Championship has a great cheatsheet for all the yaku.
+- [Riichi Book I by Daina Chiba (pdf)](https://dainachiba.github.io/RiichiBooks/): This is an excellent book for players looking to get better at riichi.
 
 I hope this was helpful, and I hope you have fun playing riichi!
