@@ -3,7 +3,7 @@ author: Evan BG
 title: 'Riichi Mahjong: A Digital Primer'
 summary: Riichi Mahjong is a super cool game that can be daunting to learn. This primer aims to help readers get started playing a digital version to get hands-on experience quickly.
 ---
-<style>img {max-height: 215px}</style>
+<style>img {max-height: 500px}</style>
 
 ![Mahjong tiles scattered]({% link /assets/images/2023/mahjong_stock.png %})
 
