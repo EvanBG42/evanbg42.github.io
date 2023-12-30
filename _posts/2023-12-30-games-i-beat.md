@@ -23,7 +23,7 @@ When I first picked up a VR headset in 2020, _Half-Life: Alyx_ and _Boneworks_ w
 
 
 # Bonelab (2022) [PC]
-![Bonelab]({% link /assets/images/2023/bonelab.png %})
+![Bonelab]({% link /assets/images/2023/bonelab.jpg %})
 
 The reason why I replayed _Boneworks_ was because its semi-sequel was due to come out soon. _Bonelab_ is an interesting thing, billed as a modding platform for the tech from _Boneworks_, but featuring its own, smaller story to play through. The story here is pretty neat, but feels less connected than its predecessor. The main draw of this one, aside from its modding features, is the avatar-switching features. Each avatar you use in the game has its own strengths and weaknesses based on the physical attributes  of its model. You could play a slim and super quick ninja, an enormous armored warrior with a sumo-wrestler build, or a number of the others available in the story. In the end, this one definitely felt more "tech demo" than _Boneworks_. This is in part due to being substantially shorter than _Boneworks_, but I also feel like they could have explored the avatar-swapping concept in more detail and really pushed it to its limits. There are a ton of mod avatars that stretch the limits of the engine, and I have a lot of fun playing around with ones that have extreme proportions (shout out to the giant mech avatars, those are especially cool).
 
