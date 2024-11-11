@@ -10,6 +10,7 @@ summary: Spotlight on a brilliant score system for online racing games.
 - Type: Scoring system
 - Where I Spotted: Forza Horizon 4
 - Features: Easy to understand. Supports unbalanced teams and has no ties.
+
 ---
 
 This is a small post to spotlight a scoring mechanism I saw in a game that I really appreciate. It’s both simple and robust and a perfect fit for an online racing game. Forza Horizon 4 is probably not the first game to use this system, but it’s the first place I saw it.
