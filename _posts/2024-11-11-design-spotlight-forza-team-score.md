@@ -1,6 +1,6 @@
 ---
 author: Evan BG
-title: Design Spotlight: Forza Horizon 4 Team Race Scoring
+title: 'Design Spotlight: Forza Horizon 4 Team Race Scoring'
 summary: Spotlight on a brilliant score system for online racing games.
 ---
 <style>img {max-height: 215px}</style>
