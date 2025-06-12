@@ -105,7 +105,6 @@ The above primer should be enough to get started playing a video game version of
 Not sure where to play? Here are some favorites:
 - [Kemono Mahjong](http://cyberdog.ca/kemono-mahjong/): An excellent implementation of riichi with animal characters who have different personalities and play styles. Bonus points for a mobile implementation that plays with the screen vertical!
 - [Clubhouse Games on Nintendo Switch](https://www.nintendo.com/store/products/clubhouse-games-51-worldwide-classics-switch/): The new Clubhouse Games has riichi as a part of it. I haven't played this, but it looks super polished.
-- [Mahjong Soul](https://mahjongsoul.yo-star.com/): This is probably the easiest to set up and play online with friends. Minus points for having some super anime-tropey art in some not great ways (it can get a bit lewd). And it's a gacha game. Luckily you don't *have* to engage with that stuff to play with friends.
 
 Once you've played some riichi, here are some great resources for learning more:
 - [Japanese Mahjong Wiki](https://riichi.wiki/Main_Page): This is a community wiki for riichi. It includes yaku info, strategy tips, and info about various digital versions of the game.

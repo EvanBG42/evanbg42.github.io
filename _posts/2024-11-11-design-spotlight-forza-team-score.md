@@ -17,7 +17,7 @@ This is a small post to spotlight a scoring mechanism I saw in a game that I rea
 
 The system works like this:
 - Players have individual scores.
-- Players get 100 points for each opposing player they beat to the finish line.Players don’t get points for finishing ahead of their teammates.
+- Players get 100 points for each opposing player they beat to the finish line. Players don’t get points for finishing ahead of their teammates.
 - If the player got first place, they receive a 50 point bonus.
 - A team’s score is the sum of all player scores on that team.
 
