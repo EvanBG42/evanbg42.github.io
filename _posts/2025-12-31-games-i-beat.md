@@ -145,4 +145,4 @@ So how is The Sacred Cards? Honestly, just kind of fine. Like many of the early 
 
 Part of the reason why I was drawn to this game was its use of a "deck cost" system. In the game, cards have a points value associated with them, and the total points in your deck must be under a specific number that increases as you play the game. If this sounds familiar, that's because it is: it's the main innovation of the Genesys format! It's funny how long it took the team to try something like this in the real world when a version of it has been around for ages.
 
-TODO year outro
+Regardless of the state of my personal life or the world at large, I look forward to what 2026 brings in games.
