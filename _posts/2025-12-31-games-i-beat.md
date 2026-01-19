@@ -40,6 +40,7 @@ This is one of my go-to "weekender" games when I want a fun and familiar experie
 Regardless, it's still a solid game with a unique focus and style of parkour that few first-person games have explored. Lots of modern first-person games have some movement tech, but it's often a side dish to shooting and simplified or automated as a result. There just isn't much (outside of a few indie titles) with such a deliberate focus on first-person movement.
 
 # Super Mario Galaxy (2007, NS, 3D All-Stars)
+![Super Mario Galaxy key art]({% link /assets/images/2025/super_mario_galaxy.jpg %})
 
 This was my first time beating Galaxy, and my first time playing it in many years. The full orchestra soundtrack is lush, and the game super polished (aside from inevitable camera jankiness with outer space), but it still didn't stick the landing for me. 
 
@@ -48,6 +49,7 @@ Due to the 3D All-Stars collection, I played this shortly after playing through 
 I feel that 64 and Sunshine were fine with having challenging areas in the "main" path of the game, and encouraging open-ended play and exploration	for less-skilled players. But Galaxy seemed afraid of the player getting stuck in the main path of the game, and I think the design and gameplay variety suffer as a result.
 
 # PaRappa the Rapper (1997, PSP Remake)
+![PaRappa the Rapper key art]({% link /assets/images/2025/parappa_the_rapper.jpg %})
 
 PaRappa is an interesting early rhythm game. Its call-and-response structure is something I haven't seen many other places (Rhythm Heaven is the closest comparison I can think of). 
 
@@ -55,31 +57,34 @@ The real reason why PaRappa matters is because of its unique sense of style and 
 
 It's all depicted in lovely paper-like dioramas, brightly colored and cartoony in the extreme. I found the game relatively easy and short, but that was no surprise. I'm not sure how you would expand on this, or if you even really _should_ expand it for a longer, more in-depth experience. It's a good time overall. 
 
-I strongly recommend Mike Sholars' book on the game, published by Boss Fight Books. He provides both a personal anecdote and some terrific background on the game's development and its cultural origins.
+I strongly recommend Mike Sholars' [book about the game](https://bossfightbooks.com/products/parappa-the-rapper-by-mike-sholars), published by Boss Fight Books. He provides both a personal anecdote and some terrific background on the game's development and its cultural origins.
 
 # Skin Deep (2025, PC)
+![Skin Deep key art]({% link /assets/images/2025/mirrors_edge.jpg %})
 	
 Emergent mechanics and systems design are some of my favorite things about games, and the immersive sim ("imm-sim" for short) genre has both of them in spades. Due to their complexity, there hasn't been many imm-sims in the indie games space until very recently. _Skin Deep_ is Blendo Games' take on an immersive sim, and it's a blast.
 
 The world of _Skin Deep_ is a weird and wonderful far-future, filled with space travel, talking cats, and body modification that enables you to "swim" in local space. The whole setting operates on a sort of cartoon logic that makes for an especially fun (and relatively non-violent) sandbox. Unlike some big imm-sims, _Skin Deep_ doesn't have any kind of permanent upgrades or inventory you keep between missions. This can be frustrating if it's something you expect from the game, but I loved having to scrounge around and use my wits and the environment to puzzle-solve my way out of sticky situations.
 
-The presentation of the game is especially stylish, with its warm, muted colors and terrific soundtrack (complete with radio interstitials for world-building!). My one complaint about the visuals is that the abstract blocky cats and the slightly-higher-fidelity human models clash pretty significantly, but it never prevented me from enjoying the game. Most enemy grunts are masked, which helps prevent some of that clashing. But poor Nina's model looks a bit rough.
+The presentation of the game is especially stylish, with its warm, muted colors and terrific soundtrack (complete with radio interstitials for world-building!). My one complaint about the visuals is that the abstract blocky cats and the slightly-higher-fidelity human models clash pretty significantly, but it never prevented me from enjoying the game. Most enemy grunts are masked, which helps prevent some of that clashing. But poor Nina's in-game model looks a bit rough.
 
 Overall, _Skin Deep_ is stylish, wildly inventive, and a lot of fun. I strongly recommend folks check it out. Hopefully we'll see more indie imm-sims soon!
 
 # Dragon Warrior I (2000, GBC, Lv.21)
+![Dragon Warrior I & II key art]({% link /assets/images/2025/dragon_warrior_i_ii.jpg %})
 
 This game was a lucky case where my circumstances were perfect to fully enjoy it. I was laid off from my job of five years recently, and my mental health had taken a major hit. So I sought a game that was straightforward, with clear objectives and good sense of progression. This ur-JRPG suited that situation perfectly.
 
 I chose to play the Gameboy Color remake of Dragon Warror I (AKA Dragon Quest) both because of its quality of life additions and my affinity for the Gameboy. As a result, my Dragon Quest experience was on a handheld, and with my phone's notes app at hand. The intertwining progressions of both information gathering and experience/resource gathering worked together nicely. I never felt especially dragged down by a need to grind for experience since my natural exploration and info gathering led me to getting plenty of XP. This might have been helped by the GB version's double XP compared to the original
 
-The map design in this game is terrific. Everything radiates outward from the central castle in a series of nested spirals. This design is a natural choice since the the castle is the only true way to save the game, but I think it's an excellent structure for this style of game regardless.
+The [map design](https://gamefaqs.gamespot.com/nes/563408-dragon-warrior/map/24736-overworld-area-map) in this game is terrific. Everything radiates outward from the central castle like a series of nested spirals. This design is a natural choice since the the castle is the only true way to save the game, but I think it's an excellent structure for this style of game regardless.
 
 The combat of the game is super bare-bones. That's not surprising considering how novel it was at the time, but it certainly wouldn't stand up to the complexity and variety in most games now. In combat, I enjoyed the monster sprites the most. The art style was conveyed perfectly, even on such a small screen. 
 
 In all, this felt like a sort of "JRPG in miniature", and I was grateful for that. Most JRPGs feel overlong, but this one hit the spot for me, and at just the right time. I look forward to seeing how this series and the "family tree" of JRPGs grows over time.
 
 # Super Mario Odyssey (2017, NS, Credits at 121 moons)
+![Super Mario Odyssey key art]({% link /assets/images/2025/super_mario_odyssey.jpg %})
 
 Like Super Mario 64, this game felt like it was leaning toward the "sandbox" style 3D Mario game. Albeit with much of the 64's sharp edges sanded off, and a lot more bells and whistles (and hats). 
 
@@ -92,6 +97,7 @@ The vast majority of the hat moves have both button and motion control options, 
 My favorite minor part of the game was Luigi's balloon hide and seek. I love asynchronous modes that allow one player to set up a challenge, and another player to attempt it. And both modes use the exact same controls! Very elegant stuff, and I would love to see more like it.
 
 # Mad Max (2015, PC)
+![Mad Max key art]({% link /assets/images/2025/mad_max.jpg %})
 
 The 2015 Mad Max game is about as textbook as modern open-world checklist games get. But with my fondness for the setting and the wild characters and tech in it, I still found myself wanting to explore and spend time in that world.
 
@@ -104,8 +110,9 @@ On foot, most of what Max does is just walk around, grab collectibles and resour
 I enjoyed this game as a sort of "solid B-game", but I struggle to recommend it to folks. Unless you're really itching for a game with this structure that is plain and predictable, you will likely be bored.
 
 # Grimstone (2024, PC, UFO 50)
+![Grimstone key art]({% link /assets/images/2025/grimstone.png %})
 
-Grimstone is an RPG game by UFO Soft released in 1988 (within the fiction of UFO 50 at least). In many ways, it's a standard JRPG game albeit with a unique setting, some nice quality of life touches, and a golf-style action bar combat system.
+Grimstone is an RPG game by UFO Soft released in 1988 (within the fiction of [UFO 50](https://50games.fun/) at least). In many ways, it's a standard JRPG game albeit with a unique setting, some nice quality of life touches, and a golf-style action bar combat system.
 
 I adore the setting: old west meets apocalyptic fiction. The entirety of Texas (called "Lone Star" in the game) has fallen into hell, and you get to explore the new frontier. The "off-brand" Texas city names of Lone Star are delightful, and the individual character writing is sparse and deliberate. Characters don't say much, but what's present is striking. Additionally, the characters you choose for your party have individual quests and story beats that flesh out their background and personality. Plus, it's a good reason to replay with a new party to see everyone's story.
 
@@ -118,22 +125,27 @@ This need for focus and the additional time required soured me on the game a bit
 UFO 50 is such a monumental work, and this game only one of the 50(ish). I have some criticisms of Grimstone specifically, but even if this doesn't appeal to you, there's such a variety of high quality stuff in the full product that I definitely recommend you give it a look.
 
 # Pokémon Card GB 2 (2001, GBC, Trans. by Artemis251)
+![Pokémon Card GB 2 key art]({% link /assets/images/2025/pokemon_card_gb_2.jpg %})
 
 Standard disclaimer: I'm a fan of single-player adaptations of TCGs. I love being able to experience collecting, deck building experimentation, and play in a way that doesn't require shelling out significant cash and keeping up with new releases.
 
 In most ways, GB 2 is strictly better than the first game. In addition to the new cards, the latter half of the game introduces battles with interesting rules twists or deck-building restrictions. I love wacky formats and modifiers like this, and think they're an excellent way to help players explore and understand the nuances of specific cards and systems of the game.
 
-I want to give a shout-out to the translation and romhacking team for making it possible for me to play this game. Not only is the translation and hacking process a ton of work, but the Pokémon TCG Gameboy games have some _very_ quirky text rendering to get all the text to show onscreen at once.
+I want to give a shout-out to the translation and romhacking team for making it possible for me to play this game. Not only is the translation and hacking process a ton of work, but the Pokémon TCG Gameboy games have some [very quirky text rendering](https://www.youtube.com/watch?v=DK1ZlRXPXEY&t=780s) to get all the text to show onscreen at once.
 	
 # Mr. Sun's Hatbox (2023, PC)
+!Mr. Sun's Hatbox key art]({% link /assets/images/2025/mr_suns_hatbox.jpg %})
+
 
 This is a game I feel deserves way more love than it's gotten. It's a side-view comedy stealth physics game and an absolute blast. You brainwash folks, take them on missions to steal or eliminate or kidnap, and upgrade your base between runs. Good, satisfying stuff. The ability to use the balloons to send people, hats, and weapons back to base is fun and breezy.
 
 The game isn't terribly long if you play smart. I did not play smart. In my hubris, I kept throwing my lowest-level folks at missions with few resources to hoard up for the (hypothetical) future. I'm sure and especially skilled player could beat the game like this, but that isn't me. Only after grinding away at this for far too long did I bite the bullet and play how the game was intended to be played. And I enjoyedit once I did!
 	
 # Yu-Gi-Oh!: The Sacred Cards (2003, GBA)
+![Yu-Gi-Oh!: The Sacred Cards key art]({% link /assets/images/2025/ygo_the_sacred_cards.jpg %})
 
-Yu-Gi-Oh! ("YGO" going forward) is having a bit of a moment lately: a new format called Genesys and a number of other good decisions by Konami have gotten lots of folks excited about the game. With all this hubbub, I wanted to do some YGO exploring myself. 
+
+Yu-Gi-Oh! ("YGO" going forward) is having a bit of a moment lately: a new format called [Genesys](https://www.yugioh-card.com/en/genesys/) and a number of other good decisions by Konami have gotten lots of folks excited about the game. With all this hubbub, I wanted to do some YGO exploring myself. 
 
 Naturally, I did this in the strangest way possible: playing old games that don't actually use the rules for the "real" card game.
 
