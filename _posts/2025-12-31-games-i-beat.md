@@ -71,7 +71,7 @@ The presentation of the game is especially stylish, with its warm, muted colors 
 Overall, _Skin Deep_ is stylish, wildly inventive, and a lot of fun. I strongly recommend folks check it out. Hopefully we'll see more indie imm-sims soon!
 
 # Dragon Warrior I (2000, GBC, Lv.21)
-![Dragon Warrior I & II key art]({% link /assets/images/2025/dragon_warrior_i_ii.jpg %})
+![Dragon Warrior I & II key art]({% link /assets/images/2025/dragon_warrior_I_II.jpg %})
 
 This game was a lucky case where my circumstances were perfect to fully enjoy it. I was laid off from my job of five years recently, and my mental health had taken a major hit. So I sought a game that was straightforward, with clear objectives and good sense of progression. This ur-JRPG suited that situation perfectly.
 
